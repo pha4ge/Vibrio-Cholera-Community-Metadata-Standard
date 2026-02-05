@@ -93,6 +93,7 @@ Contributions, feedback, and issue reports are welcome. Community input is essen
 If you use, adapt, or reference this metadata standard in your work, please credit:
 
 **Public Health Alliance for Genomic Epidemiology (PHA4GE)**
+
 **Africa Centres for Disease Control and Prevention (Africa CDC)**
 
 A formal citation and citation file (CITATION.cff) may be added in future releases.
